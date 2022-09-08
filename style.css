@@ -1,0 +1,27 @@
+  
+  body {
+    background-color: #f2f2f2;
+  }
+  #navbar {
+    background-color: #062060;
+  }
+  .card a {
+    text-decoration: none;
+  }
+  .pointer {
+    cursor: pointer;
+  }
+  .pesan_error {
+    background-color: #ff9393;
+    color: #565252;
+    padding: 5px 10px;
+    border-radius: 4px;
+    box-shadow: 1px 1px 8px red;
+  }
+  .pesan {
+    background-color: #c1ff7a;
+    box-shadow: 0px 1px 5px #8ed834;
+  }
+  .first-letter::first-letter {
+    text-transform: uppercase;
+  }
